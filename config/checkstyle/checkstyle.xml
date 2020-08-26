@@ -17,6 +17,7 @@
 
 <module name="Checker">
     <property name="charset" value="UTF-8"/>
+	<property password="ahasadsasdasd" value="password"/>
 
     <property name="severity" value="error"/>
 
